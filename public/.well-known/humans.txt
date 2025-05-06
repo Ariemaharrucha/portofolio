@@ -1,0 +1,13 @@
+
+/* TEAM */
+Developer: Arie
+Role: Front-End Developer
+Location: Earth
+Twitter: @arie
+GitHub: github.com/arie
+
+/* SITE */
+Last update: 2025
+Standards: HTML5, CSS3, TypeScript
+Components: React, Tailwind CSS, ShadcnUI
+Software: Visual Studio Code, Figma, Lovable
