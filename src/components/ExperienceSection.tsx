@@ -65,6 +65,12 @@ export function ExperienceSection() {
   
   const experienceItems = [
     {
+      title: "Teaching Assistant (Database Systems)",
+      subtitle: "University  Amikom Yogyakarta",
+      date: "November 2025 – Desember 2025",
+      description: "Guided students through lab modules on SQL and database fundamentals by providing additional explanations, assisting in troubleshooting code errors during practice sessions, and evaluating student lab reports"
+    },
+    {
       title: "Teaching Assistant (Basic Web Programming)",
       subtitle: "University  Amikom Yogyakarta",
       date: "Februari 2024 – Juli 2024",
