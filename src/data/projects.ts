@@ -11,6 +11,23 @@ export type Project = {
 };
 
 export const projects: Project[] = [
+  //   {
+  //   id: "hirefrom",
+  //   title: "HireFrom",
+  //   description: "A web application designed to assist HR in the recruitment process through online forms and AI-based candidate screening.",
+  //   features: [
+  //     "Job application form creation",
+  //     "Automated CV upload and analysis (AI score & summary)",
+  //     "Candidate status management",
+  //     "Data export to CSV",
+  //     "AI-powered candidate screening with Gemini API"
+  //   ],
+  //   technologies: ["NextJs", "TypeScript", "Shadcn UI", "Gemini-AI", "Prisma ORM", "PostgreSQL"],
+  //   imageUrl: "https://res.cloudinary.com/dehyfhrwi/image/upload/v1759292465/Screenshot_2025-10-01_111929_rvnelx.png",
+  //   projectUrl: "/portfolio/hirefrom",
+  //   githubUrl: "https://github.com/Ariemaharrucha/HireForm",
+  //   demoUrl: "https://hirefrom.vercel.app/"
+  // },
   {
     id: "unggasku-id",
     title: "Unggasku ID",
