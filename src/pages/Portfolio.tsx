@@ -5,16 +5,17 @@ import { projects } from "@/data/projects";
 
 const technologies = [
   { name: "React", icon: "⚛️" },
+  { name: "Next.js", icon: "▲" },
   { name: "TypeScript", icon: "🔷" },
   { name: "JavaScript", icon: "📜" },
   { name: "Redux", icon: "🌀" },
+  { name: "Zod", icon: "🛡️" },
   { name: "MongoDB", icon: "🍃" },
   { name: "Express.JS", icon: "🚂" },
   { name: "Tailwind CSS", icon: "🌊" },
   { name: "Bootstrap", icon: "🎀" },
-  { name: "Vite", icon: "⚡" },
   { name: "Shadcn UI", icon: "🎨" },
-  { name: "Next.js (learning)", icon: "▲" }
+  { name: "Vite", icon: "⚡" },
 ];
 
 const Portfolio = () => {
