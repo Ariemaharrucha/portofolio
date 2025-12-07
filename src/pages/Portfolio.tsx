@@ -4,6 +4,8 @@ import { Layout } from "@/components/Layout";
 import { projects } from "@/data/projects";
 
 const technologies = [
+  { name: "HTML", icon: "📄" },
+  { name: "CSS3", icon: "🎨" },
   { name: "React", icon: "⚛️" },
   { name: "Next.js", icon: "▲" },
   { name: "TypeScript", icon: "🔷" },
