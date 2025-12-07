@@ -11,6 +11,22 @@ export type Project = {
 };
 
 export const projects: Project[] = [
+    {
+    id: "alquran-web-app",
+    title: "Web Application Al-Qur'an",
+    description: "A web app that allows users to read, search, and listen to Quranic verses online using public APIs and responsive design.",
+    features: [
+      "Full list of Surahs",
+      "Display of verses in each Surah",
+      "Audio playback for each verse and five qaris",
+      "Responsive and user-friendly UI"
+    ],
+    technologies: ["NextJs", "TypeScript", "Tailwind CSS", "Shadcn UI", "Public API"],
+    imageUrl: "https://res.cloudinary.com/dehyfhrwi/image/upload/v1765075272/Screenshot_2025-12-07_at_09-39-40_Create_Next_App_jtiahj.png",
+    projectUrl: "/portfolio/alquran-web-app",
+    githubUrl: "https://github.com/Ariemaharrucha/Al-quran_apps", 
+    demoUrl: "https://al-quran-gilt.vercel.app/" 
+  },
   //   {
   //   id: "hirefrom",
   //   title: "HireFrom",
