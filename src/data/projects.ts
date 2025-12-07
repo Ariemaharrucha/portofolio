@@ -24,8 +24,8 @@ export const projects: Project[] = [
     technologies: ["NextJs", "TypeScript", "Tailwind CSS", "Shadcn UI", "Public API"],
     imageUrl: "https://res.cloudinary.com/dehyfhrwi/image/upload/v1765075272/Screenshot_2025-12-07_at_09-39-40_Create_Next_App_jtiahj.png",
     projectUrl: "/portfolio/alquran-web-app",
-    githubUrl: "https://github.com/Ariemaharrucha/Al-quran_apps", 
-    demoUrl: "https://al-quran-gilt.vercel.app/" 
+    githubUrl: "https://github.com/Ariemaharrucha/next-quran.git", 
+    demoUrl: "https://next-quran-five.vercel.app/" 
   },
   //   {
   //   id: "hirefrom",
