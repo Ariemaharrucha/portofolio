@@ -11,6 +11,31 @@ export type Project = {
 };
 
 export const projects: Project[] = [
+      {
+      id: "sub-tracker",
+      title: "Subscription Tracker Web App",
+      description: "A web application that helps users manage digital subscriptions, track monthly expenses, and receive email notifications before subscription renewals through a clean and intuitive dashboard.",
+      features: [
+        "Add, view, and delete digital subscriptions",
+        "Monthly subscription expense overview",
+        "Email notifications before renewal dates",
+        "Google OAuth authentication",
+        "Modern and responsive dashboard UI"
+      ],
+      technologies: [
+        "Next.js",
+        "TypeScript",
+        "Tailwind CSS",
+        "Shadcn UI",
+        "Prisma",
+        "PostgreSQL",
+        "Better Auth"
+      ],
+      imageUrl: "https://res.cloudinary.com/dehyfhrwi/image/upload/v1765608177/landing_pbpgc8.png",
+      projectUrl: "/portfolio/sub-tracker",
+      githubUrl: "https://github.com/Ariemaharrucha/sub-tracker",
+      demoUrl: "https://sub-tracker-phi.vercel.app/"
+    },
     {
     id: "alquran-web-app",
     title: "Web Application Al-Qur'an",
