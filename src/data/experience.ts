@@ -6,7 +6,7 @@
       description: "Developed and updated the department website using WordPress with a responsive design and structured new pages. Added interactive features to enhance user experience."
     },
     {
-      title: "Prompt Engineer Intern",
+      title: "Intern",
       subtitle: "Weeswares Pte Ltd, Caritahub",
       date: "February 2025 – May 2025",
       description: "Created AI-driven game concepts, designs, and interactive elements tailored for elderly users to support engagement and cognitive benefits."
